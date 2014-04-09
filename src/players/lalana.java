@@ -6,7 +6,7 @@ public class lalana {
 	private String friend[];
 	public lalana() {
 		name = "lalana";
-		position = "RB";
+		position = "AMF";
 		friend = new String[]{"Luke Shaw","Chis Wood","Anthony Knockeart"};
 	}
 	public lalana (int a) {
